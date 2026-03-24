@@ -1,0 +1,72 @@
+﻿@model List<CafeBook.DAL.Models.Stol>
+
+@{
+    ViewData["Title"] = "Rezervacija stola";
+}
+
+<div class="container mt-5" style="max-width: 600px;">
+    <div class="card">
+        <div class="card-header text-center">
+            <i class="fas fa-calendar-check"></i> Rezervišite vaš sto
+        </div>
+        <div class="card-body p-4">
+
+            @if (ViewBag.Greska != null)
+            {
+                <div class="alert alert-danger">
+                    <i class="fas fa-exclamation-triangle"></i> @ViewBag.Greska
+                </div>
+            }
+
+            <form asp-action="Kreiraj" method="post">
+                <div class="mb-3">
+                    <label class="form-label fw-bold">
+                        <i class="fas fa-user"></i> Ime i prezime
+                    </label>
+                    <input type="text" name="ImeGosta" class="form-control" placeholder="npr. Marko Marković" required />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">
+                        <i class="fas fa-phone"></i> Broj telefona
+                    </label>
+                    <input type="text" name="BrojTelefona" class="form-control" placeholder="npr. 0601234567" required />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">
+                        <i class="fas fa-clock"></i> Datum i vreme
+                    </label>
+                    <input type="datetime-local" name="DatumVreme" class="form-control" required />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">
+                        <i class="fas fa-users"></i> Broj osoba
+                    </label>
+                    <input type="number" name="BrojOsoba" class="form-control" min="1" max="10" required />
+                </div>
+
+                <div class="mb-4">
+                    <label class="form-label fw-bold">
+                        <i class="fas fa-chair"></i> Odaberite sto
+                    </label>
+                    <select name="StolId" class="form-control">
+                        @foreach (var stol in Model)
+                        {
+                            <option value="@stol.Id">
+                                Sto @stol.BrojStola — @stol.Lokacija (do @stol.Kapacitet osoba)
+                            </option>
+                        }
+                    </select>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-success btn-lg">
+                        <i class="fas fa-check-circle"></i> Potvrdi rezervaciju
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

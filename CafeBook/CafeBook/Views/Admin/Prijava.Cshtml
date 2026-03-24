@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Admin prijava";
+}
+
+<div class="container mt-5" style="max-width: 400px;">
+    <div class="card">
+        <div class="card-header text-center">
+            <i class="fas fa-lock"></i> Admin prijava
+        </div>
+        <div class="card-body p-4">
+            @if (ViewBag.Greska != null)
+            {
+                <div class="alert alert-danger">
+                    <i class="fas fa-exclamation-circle"></i> @ViewBag.Greska
+                </div>
+            }
+
+            <form asp-action="Prijava" method="post">
+                <div class="mb-3">
+                    <label class="form-label fw-bold">
+                        <i class="fas fa-user"></i> Korisničko ime
+                    </label>
+                    <input type="text" name="korisnickoIme" class="form-control" required />
+                </div>
+                <div class="mb-4">
+                    <label class="form-label fw-bold">
+                        <i class="fas fa-key"></i> Lozinka
+                    </label>
+                    <input type="password" name="lozinka" class="form-control" required />
+                </div>
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-success btn-lg">
+                        <i class="fas fa-sign-in-alt"></i> Prijavi se
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

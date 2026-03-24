@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.dal\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|solutionrelative:cafebook.dal\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\views\\admin\\prijava.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\views\\admin\\prijava.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.dal\\models\\caffebookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|solutionrelative:cafebook.dal\\models\\caffebookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\views\\admin\\rezervacije.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\views\\admin\\rezervacije.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.dal\\cafebook.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|solutionrelative:cafebook.dal\\cafebook.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.dal\\migrations\\20260324171440_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|solutionrelative:cafebook.dal\\migrations\\20260324171440_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.dal\\migrations\\cafebookcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|solutionrelative:cafebook.dal\\migrations\\cafebookcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24AB1B1-81C0-47C2-A112-7F82D5C5452D}|CafeBook.Buisiness\\CafeBook.Buisiness.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.buisiness\\adminservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24AB1B1-81C0-47C2-A112-7F82D5C5452D}|CafeBook.Buisiness\\CafeBook.Buisiness.csproj|solutionrelative:cafebook.buisiness\\adminservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24AB1B1-81C0-47C2-A112-7F82D5C5452D}|CafeBook.Buisiness\\CafeBook.Buisiness.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.buisiness\\rezervacijaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24AB1B1-81C0-47C2-A112-7F82D5C5452D}|CafeBook.Buisiness\\CafeBook.Buisiness.csproj|solutionrelative:cafebook.buisiness\\rezervacijaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24AB1B1-81C0-47C2-A112-7F82D5C5452D}|CafeBook.Buisiness\\CafeBook.Buisiness.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.buisiness\\cafebook.buisiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D24AB1B1-81C0-47C2-A112-7F82D5C5452D}|CafeBook.Buisiness\\CafeBook.Buisiness.csproj|solutionrelative:cafebook.buisiness\\cafebook.buisiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\views\\rezervacija\\stolovi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\views\\rezervacija\\stolovi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\views\\rezervacija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\views\\rezervacija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.dal\\models\\stol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|solutionrelative:cafebook.dal\\models\\stol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook.dal\\models\\rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0161EC51-07B7-40AB-96D4-F5F378460133}|CafeBook.DAL\\CafeBook.DAL.csproj|solutionrelative:cafebook.dal\\models\\rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\controllers\\rezervacijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\controllers\\rezervacijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|c:\\users\\uros\\desktop\\vukojevicurossss\\urosvukojevicit\\cafebook\\cafebook\\views\\rezervacija\\uspeh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E91BB4A-7AFE-43F8-9503-AEF5CF47071F}|CafeBook\\CafeBook.csproj|solutionrelative:cafebook\\views\\rezervacija\\uspeh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rezervacije.cshtml",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Admin\\Rezervacije.cshtml",
+              "RelativeDocumentMoniker": "CafeBook\\Views\\Admin\\Rezervacije.cshtml",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Admin\\Rezervacije.cshtml",
+              "RelativeToolTip": "CafeBook\\Views\\Admin\\Rezervacije.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T11:27:22.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CafeBook.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\CafeBook.DAL.csproj",
+              "RelativeDocumentMoniker": "CafeBook.DAL\\CafeBook.DAL.csproj",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\CafeBook.DAL.csproj",
+              "RelativeToolTip": "CafeBook.DAL\\CafeBook.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T16:35:01.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RezervacijaServis.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.Buisiness\\RezervacijaServis.cs",
+              "RelativeDocumentMoniker": "CafeBook.Buisiness\\RezervacijaServis.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.Buisiness\\RezervacijaServis.cs",
+              "RelativeToolTip": "CafeBook.Buisiness\\RezervacijaServis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:46:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CafeBook\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CafeBook\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:24:46.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeBook\\appsettings.json",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\appsettings.json",
+              "RelativeToolTip": "CafeBook\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T11:19:38.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prijava.Cshtml",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Admin\\Prijava.Cshtml",
+              "RelativeDocumentMoniker": "CafeBook\\Views\\Admin\\Prijava.Cshtml",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Admin\\Prijava.Cshtml",
+              "RelativeToolTip": "CafeBook\\Views\\Admin\\Prijava.Cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T11:26:55.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CaffeBookContext.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Models\\CaffeBookContext.cs",
+              "RelativeDocumentMoniker": "CafeBook.DAL\\Models\\CaffeBookContext.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Models\\CaffeBookContext.cs",
+              "RelativeToolTip": "CafeBook.DAL\\Models\\CaffeBookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:38:04.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Program.cs",
+              "RelativeDocumentMoniker": "CafeBook\\Program.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Program.cs",
+              "RelativeToolTip": "CafeBook\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:21:52.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rezervacija.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Models\\Rezervacija.cs",
+              "RelativeDocumentMoniker": "CafeBook.DAL\\Models\\Rezervacija.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Models\\Rezervacija.cs",
+              "RelativeToolTip": "CafeBook.DAL\\Models\\Rezervacija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:37:32.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260324171440_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Migrations\\20260324171440_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CafeBook.DAL\\Migrations\\20260324171440_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Migrations\\20260324171440_InitialCreate.cs",
+              "RelativeToolTip": "CafeBook.DAL\\Migrations\\20260324171440_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:14:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Models\\Korisnik.cs",
+              "RelativeDocumentMoniker": "CafeBook.DAL\\Models\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Models\\Korisnik.cs",
+              "RelativeToolTip": "CafeBook.DAL\\Models\\Korisnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:37:41.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Stol.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Models\\Stol.cs",
+              "RelativeDocumentMoniker": "CafeBook.DAL\\Models\\Stol.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Models\\Stol.cs",
+              "RelativeToolTip": "CafeBook.DAL\\Models\\Stol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:36:45.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CafeBookContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Migrations\\CafeBookContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CafeBook.DAL\\Migrations\\CafeBookContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.DAL\\Migrations\\CafeBookContextModelSnapshot.cs",
+              "RelativeToolTip": "CafeBook.DAL\\Migrations\\CafeBookContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T17:18:38.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminServis.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.Buisiness\\AdminServis.cs",
+              "RelativeDocumentMoniker": "CafeBook.Buisiness\\AdminServis.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.Buisiness\\AdminServis.cs",
+              "RelativeToolTip": "CafeBook.Buisiness\\AdminServis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:46:56.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RezervacijaController.cs",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Controllers\\RezervacijaController.cs",
+              "RelativeDocumentMoniker": "CafeBook\\Controllers\\RezervacijaController.cs",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Controllers\\RezervacijaController.cs",
+              "RelativeToolTip": "CafeBook\\Controllers\\RezervacijaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:24:24.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Rezervacija\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeBook\\Views\\Rezervacija\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Rezervacija\\Index.cshtml",
+              "RelativeToolTip": "CafeBook\\Views\\Rezervacija\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T11:25:35.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CafeBook.Buisiness.csproj",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.Buisiness\\CafeBook.Buisiness.csproj",
+              "RelativeDocumentMoniker": "CafeBook.Buisiness\\CafeBook.Buisiness.csproj",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook.Buisiness\\CafeBook.Buisiness.csproj",
+              "RelativeToolTip": "CafeBook.Buisiness\\CafeBook.Buisiness.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T16:46:12.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stolovi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Rezervacija\\Stolovi.cshtml",
+              "RelativeDocumentMoniker": "CafeBook\\Views\\Rezervacija\\Stolovi.cshtml",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Rezervacija\\Stolovi.cshtml",
+              "RelativeToolTip": "CafeBook\\Views\\Rezervacija\\Stolovi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T12:00:07.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CafeBook\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CafeBook\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T11:29:46.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeBook\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CafeBook\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T11:40:22.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Uspeh.cshtml",
+              "DocumentMoniker": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Rezervacija\\Uspeh.cshtml",
+              "RelativeDocumentMoniker": "CafeBook\\Views\\Rezervacija\\Uspeh.cshtml",
+              "ToolTip": "C:\\Users\\Uros\\Desktop\\VukojevicUrossss\\UrosVukojevicIT\\CafeBook\\CafeBook\\Views\\Rezervacija\\Uspeh.cshtml",
+              "RelativeToolTip": "CafeBook\\Views\\Rezervacija\\Uspeh.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T11:26:15.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
